@@ -3,6 +3,7 @@
 
 import lottie from 'lottie-web';
 import { useEffect } from 'react';
+// import Hero from './components/Hero/Hero';
 import Hero from './components/Hero/Hero';
 import Main from './components/Main/Main';
 
